@@ -14,6 +14,7 @@ variable "bool-1" {
   default = true
 }
 
+
 variable "string-3" {
   default = ""
 }

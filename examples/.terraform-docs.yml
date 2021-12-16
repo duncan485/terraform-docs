@@ -24,6 +24,7 @@ sections:
     - providers
     - modules
     - footer
+    - resources
 
 # # see: https://terraform-docs.io/user-guide/configuration/content
 # content: |-
